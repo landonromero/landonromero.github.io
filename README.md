@@ -18,7 +18,7 @@ Introduction to Computer Systems
 Technical Communication
 ```
 ### Image of me
-<img src="picture.png" alt="Image of Landon Romero" width="500" height="600">  
+<img src="picture.png" alt="Image of Landon Romero">  
 
 ## Purpose of this site
 The purpose of this site was an assignment from the Introduction to Version Control class.  
