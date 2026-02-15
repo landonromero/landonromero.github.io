@@ -5,6 +5,7 @@
 * Video Games
 * Networking
 * Math
+  
 ### College Education
 **My major:** *Computer Science with a cybersecurity emphasis*  
   
